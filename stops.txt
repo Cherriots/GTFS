@@ -27,7 +27,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 59,LibeRock,Liberty @ Rock Creek,LIBERTY RD S & ROCK CREEK DR S,44.876737,-123.061494,,,,,,0
 62,BroaFMOB,Broadway @ Fred Meyer (east side),BROADWAY ST NE & SALEM PY NE,44.968864,-123.028422,,,,,,0
 63,RivCheOB,River Rd @ Chemawa,RIVER RD N & CHURCHDALE AV N,44.996874,-123.026568,,,,,,0
-64,ParRivOB,Parkmeadow @ River Rd,PARKMEADOW DR NE & RIVER RD NE,45.024345,-123.01197,,,,,,0
 66,LocWhiOB,Lockhaven @ Kalmia (Whiteaker MS),LOCKHAVEN DR NE & KALMIA DR NE,45.006129,-123.011962,,,,,,0
 68,7WallaOB,7th @ Wallace Rd.,7TH ST NW & WALLACE RD NW,44.948761,-123.051783,,,,,,0
 69,EdgKinOB,Edgewater @ Kingwood,EDGEWATER ST NW & KINGWOOD AV NW,44.93981,-123.060281,,,,,,0
@@ -79,8 +78,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 231,ComRiAIB,Commercial @ Keglers (Rite Aid),COMMERCIAL ST SE & HILFIKER LN SE,44.888977,-123.033874,,,,,,0
 232,GCTS,Glen Creek Transit Center,CORNUCOPIA ST NW & COMMERCIAL ST SE,44.950271,-123.048485,,,,,,0
 254,8thGerOB,8th @ Gerth,8TH ST NW & MCNARY AV NW,44.946036,-123.061718,,,,,,0
-258,PatEdgOB,Patterson @ Edgewater,PATTERSON ST NW & EDGEWATER ST NW,44.942444,-123.054255,,,,,,0
-262,Pat2ndIB,Patterson @ 2nd,PATTERSON ST NW & 2ND ST NW,44.94318,-123.054586,,,,,,0
 264,CapMari,Capitol @ Marion,CAPITOL ST NE & MARION ST NE,44.941718,-123.026836,,,,,,0
 266,ComMis,Commercial @ Mission,COMMERCIAL ST SE & MISSION ST S,44.93337,-123.043951,,,,,,0
 268,ComMyeOB,Commercial @ Myers,COMMERCIAL ST SE & WILSON ST SE,44.927251,-123.04433,,,,,,0
@@ -368,7 +365,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1072,EdgeMano,Edgewater @ Manorview,WB EDGEWATER RP & EDGEWATER ST NW,44.936004,-123.070796,,,,,,0
 1073,ManoEdge,Manorview @ Edgewater,UNNAMED RD NW & EDGEWATER ST NW,44.935889,-123.071142,,,,,,0
 1096,EdgRosIB,Edgewater @ Rosemont,EDGEWATER ST NW & WB ROSEMONT AV RP,44.938214,-123.06295,,,,,,0
-1098,PatRugIB,Patterson @ Ruge,PATTERSON ST NW & RUGE ST NW,44.945642,-123.056071,,,,,,0
 1099,7thPatIB,7th @ Patterson,7TH ST NW & PATTERSON ST NW,44.947143,-123.056567,,,,,,0
 1100,LanDurNB,Lancaster @ Durbin,LANCASTER DR SE & DURBIN AV SE,44.921574,-122.981779,,,,,,0
 1101,LanMahNB,Lancaster @ Mahrt,LANCASTER DR SE & MAHRT AV SE,44.925521,-122.983319,,,,,,0
@@ -385,10 +381,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1113,LocRivNB,Lockhaven @ River Rd,LOCKHAVEN DR NE & CHEMAWA RD N,45.004782,-123.023532,,,,,,0
 1114,LockVerd,Lockhaven @ Verda,LOCKHAVEN DR NE & VERDA LN NE,45.005258,-123.019176,,,,,,0
 1117,Manz14NB,Manzanita @ 14th,MANZANITA ST NE & 14TH AV NE,45.011395,-123.013561,,,,,,0
-1119,WheaMist,Wheatland @ Mistletoe,WHEATLAND RD N & MISTLETOE LP N,45.013086,-123.021563,,,,,,0
-1120,WheaDelt,Wheatland @ Delta,WHEATLAND RD N & MISTLETOE LP N,45.016716,-123.023899,,,,,,0
-1121,WheaNott,Wheatland @ Nottingham,WHEATLAND RD N & NOTTINGHAM DR NE,45.020841,-123.025182,,,,,,0
-1122,WheaPark,Wheatland @ Parkmeadow,WHEATLAND RD N & PARKMEADOW DR NE,45.02414,-123.025169,,,,,,0
 1133,LocVerSB,Lockhaven @ Verda,LOCKHAVEN DR NE & VERDA LN NE,45.005321,-123.01915,,,,,,0
 1134,Lock_DQ,Lockhaven @ Dairy Queen,761 LOCKHAVEN DR NE & HALIFAX SQ SE,45.004746,-123.023976,,,,,,0
 1135,CheRicSB,Chemawa @ Rickman,CHEMAWA RD NE & 10TH AV NE,44.996847,-123.018707,,,,,,0
@@ -416,11 +408,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1162,RivCumOB,River Rd @ Cummings,RIVER RD N & CUMMINGS LN N,44.989658,-123.026555,,,,,,0
 1163,RivDeaOB,River Rd @ Dearborn,DEARBORN AV NE & DEARBORN AV N,44.99336,-123.026631,,,,,,0
 1164,RivLocOB,River Rd @ Lockhaven,RIVER RD N & LOCKHAVEN DR N,45.004854,-123.025081,,,,,,0
-1166,ParFieOB,Parkmeadow @ Fieldview,PARKMEADOW DR NE & PARKPLACE DR NE,45.024832,-123.021815,,,,,,0
-1167,ParMeaOB,Parkmeadow @ Meadowglen,PARKMEADOW DR NE & MEADOWGLEN ST NE,45.024831,-123.017788,,,,,,0
-1168,RivOakOB,River Rd @ Oakwood,RIVER RD NE & MEADOWRIDGE ST NE,45.021102,-123.01629,,,,,,0
-1169,RivNotOB,River Rd @ Nottingham,RIVER RD NE & NOTTINGHAM DR NE,45.018208,-123.019961,,,,,,0
-1170,RivHidOB,River Rd @ Hidden Creek,RIVER RD NE & HIDDEN CREEK DR NE,45.014559,-123.020305,,,,,,0
 1175,RivDeaIB,River Rd @ Dearborn,RIVER RD N & CHURCHDALE AV N,44.993468,-123.026695,,,,,,0
 1176,RivCumIB,River Rd @ Cummings,RIVER RD N & CUMMINGS LN N,44.989712,-123.026682,,,,,,0
 1177,RivManIB,River Rd @ Manbrin,RIVER RD N & MANBRIN DR N,44.986818,-123.02667,,,,,,0
@@ -548,9 +535,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1560,ManzTrai,Manzanita @ trail,MANZANITA ST NE & TRAIL AV NE,45.010884,-123.018438,,,,,,0
 1562,ChemIndi,Chemawa @ Chemawa Indian School,CHEMAWA RD NE,45.004479,-122.986448,,,,,,0
 1566,RiveBeve,River Rd @ Bever,RIVER RD N & BEVER DR NE,44.979333,-123.026708,,,,,,0
-1567,DTC_SW,Downtown Transit Center SW,DOWNTOWN TRANSIT CENTER SOUTH BAY & HIGH ST NE,44.941222,-123.036054,,,,,,0
-1568,DTC_SE,Downtown Transit Center,DOWNTOWN TRANSIT CENTER SOUTH BAY & CHURCH ST NE,44.940753,-123.035131,,,,,,0
-1569,DTC_NE,Downtown Transit Center NE,DOWNTOWN TRANSIT CENTER NORTH BAY & CHURCH ST NE,44.941,-123.035009,,,,,,0
 1570,LancStat,Lancaster @ State,LANCASTER DR SE & LA BRANCH ST SE,44.927222,-122.983597,,,,,,0
 1571,DTC,Downtown Transit Center,DOWNTOWN TRANSIT CENTER NORTH BAY & HIGH ST NE,44.941427,-123.035983,,,,,,0
 1573,12thMill,12th @ Mill,12TH ST SE & 13TH BELLEVUE CP SE,44.933766,-123.028879,,,,,,0
@@ -576,12 +560,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1602,MadrFirc,Madras @ Fircrest,MADRAS ST SE & FIRCREST ST SE,44.866212,-123.024785,,,,,,0
 1606,Fire6062,Fire Protection Way @ Buildings 60 & 62,FIRE PROTECTION WY NE & EAST CAMPUS LP NE,44.976752,-122.975053,,,,,,0
 1608,45thPaci,45th @ Pacifica,45TH AV NE & PACIFICA WY NE,44.974028,-122.973303,,,,,,0
-1612,45thCoun,45th @ Country,45TH AV NE & NICHOLAS CT NE,44.9516,-122.973614,,,,,,0
 1614,SunnIcab,Sunnyview @ Icabod,SUNNYVIEW RD NE & GREENTREE DR NE,44.954832,-122.967621,,,,,,0
-1615,Gree2252,Greentree @ 2252/2248,GREENTREE DR NE & GREENTREE DR NE,44.956691,-122.96465,,,,,,0
-1616,SerrWalk,Serra @ Walker,SERRA CT NE & WALKER RD NE,44.959511,-122.96282,,,,,,0
-1617,WalkSunn,Walker @ Sunnyview,WALKER RD NE & SUNNYVIEW RD NE,44.955189,-122.962507,,,,,,0
-1619,PattRugW,Patterson @ Ruge,PATTERSON ST NW & 6TH ST NW,44.945903,-123.056388,,,,,,0
 1621,WintWinc,Wintergreen @ Winchester,WINTERGREEN AV NW & BRUSH COLLEGE RD NW,44.96929,-123.067276,,,,,,0
 1622,RiveLinw,Riverbend @ Linwood,RIVER BEND RD NW & LINWOOD ST NW,44.967996,-123.064953,,,,,,0
 1634,MildMarE,Mildred @ Marstone,MILDRED LN SE,44.872833,-123.029171,,,,,,0
@@ -715,7 +694,7 @@ CARTS-1525,FirvMagn,Fir Villa @ Rhododendron (Dallas),SE FIR VILLA RD & SE MAGNO
 CARTS-1526,FirvElle,Fir Villa @ Ellendale (Dallas),SE FIR VILLA RD & E ELLENDALE AV,44.927869,-123.280865,,,,,,0
 CARTS-1527,FirvEllW,Fir Villa @ Ellendale (Dallas),SE FIR VILLA RD & E ELLENDALE AV,44.927608,-123.281092,,,,,,0
 CARTS-1528,FirvMagW,Fir Villa @ Rhododendron (Dallas),SE FIR VILLA RD & SE RHODODENDRON AV,44.92184,-123.281058,,,,,,0
-CARTS-1571,DTC_NW,Downtown Transit Center,DOWNTOWN TRANSIT CENTER NORTH BAY & HIGH ST NE,44.941427,-123.035983,,,,,,0
+CARTS-1571,DTC,Downtown Transit Center,DOWNTOWN TRANSIT CENTER NORTH BAY & HIGH ST NE,44.941427,-123.035983,,,,,,0
 CARTS-1748,MainEcWB,Main @ Catron (Monmouth Public Library),,44.84859,-123.2311,,,,,,0
 CARTS-1751,4thDougl,4th @ Douglas (Gervais Post Office),4TH ST & DOUGLAS AV,45.107431,-122.899216,,,,,,0
 CARTS-1752,PorRivNB,Portland Rd @ Riverton (Brooks),PORTLAND RD NE & RIVERTON ST NE,45.047324,-122.954587,,,,,,0
@@ -728,4 +707,3 @@ CARTS-1763,Ivy1stW,Ivy @ 1st (Mill City Market),,44.749275,-122.477725,,,,,,0
 CARTS-1764,MehamaIB,Gingerbread @ Hwy 226 (Mehama),GINGERBREAD ST SE & HWY 226 SE,44.79204,-122.618809,,,,,,0
 CARTS-1789,LincBrya,Lincoln @ Bryan (Woodburn),,45.143216,-122.843163,,,,,,0
 CARTS-1790,LincCaro,Lincoln @ Carol (Woodburn),,45.142743,-122.839736,,,,,,0
-
