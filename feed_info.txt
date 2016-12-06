@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Cherriots,http://www.cherriots.org,en,20160904,20161231,2016_0904_20160920
