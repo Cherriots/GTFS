@@ -1,8 +1,6 @@
-#Cherriots GTFS
+#Cherriots GTFS, January 1, 2017
 
 This is the repository for Salem-Keizer Transit's GTFS feed. This feed contains the following routes:
-
-01, N River Rd. / S Commercial
 
 01X, Willsonville / Salem  Express
 
@@ -12,27 +10,17 @@ This is the repository for Salem-Keizer Transit's GTFS feed. This feed contains 
 
 03, Portland Road
 
-04, State / Lancaster
+04, State Street
 
-04A, State / Lancaster
+05, Center Street
 
-05, Edgewater / Center
-
-05A, Edgewater / Center
-
-06, Wallace / Fairview Industrial
+06, Mission / Fairview Industrial
 
 07, Mission / State
 
 08, 12th / Liberty
 
-08A, 12th / Liberty
-
-09, Cherry / Parkmeadow
-
-09A, Cherry / Parkmeadow
-
-10, Lansing / Hawthorne
+09, Cherry / River Rd
 
 11, Lancaster / Keizer
 
@@ -44,6 +32,22 @@ This is the repository for Salem-Keizer Transit's GTFS feed. This feed contains 
 
 15X, Airport Rd. Park & Ride Express
 
+16, Wallace Road
+
+17, Edgewater Street
+
+18, 12th / Liberty
+
+19, Broadway / River Rd
+
+21, South Commercial
+
+22, Library Loop
+
+23, Lansing / Hawthorne
+
+24, State / Lancaster
+
 CARTS10, Salem-Woodburn
 
 CARTS20, Salem-Silverton
@@ -53,5 +57,6 @@ CARTS30, Canyon Connector
 CARTS40, Polk County
 
 CARTS50, Dallas-Salem Express
+
 
 For more information, please visit our website at Cherriots.org
